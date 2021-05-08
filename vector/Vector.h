@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <complex>
-#include "../_kernel/collections/ICollection.h"
+#include "../_kernel/collection_interfaces/ICollection.h"
 
 //template<typename T>
 //constexpr bool whole_or_real_or_complex = std::is_same<T, short>::value || std::is_same<T, int>::value
